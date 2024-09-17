@@ -57,4 +57,4 @@ def excluir_produto():
 
 
 
-app.run(host='10.144.227.99', port=80, debug=True)
+app.run(host='127.0.0.1', port=80, debug=True)
